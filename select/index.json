@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "小さなてのひら",
+  "base_artist": "riya、VISUAL ARTS / Key",
+  "createdAt": "2025-12-01T10:59:08.007281Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "小さなてのひら ～eufonius Ver.～",
+      "artist": "eufonius",
+      "has_synced": true,
+      "path": "select/01_小さなてのひら_~eufonius_Ver.~_eufonius.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "小さなてのひら",
+      "artist": "riya",
+      "has_synced": false,
+      "path": "select/02_小さなてのひら_riya.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "小さなてのひら",
+      "artist": "Key",
+      "has_synced": true,
+      "path": "select/03_小さなてのひら_Key.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "小さなてのひら [instrumental]",
+      "artist": "CLANNAD",
+      "has_synced": false,
+      "path": "select/04_小さなてのひら_[instrumental]_CLANNAD.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "小さなてのひら",
+      "artist": "Key + Eufonius & Lia",
+      "has_synced": true,
+      "path": "select/05_小さなてのひら_Key_+_Eufonius_&_Lia.lrc"
+    }
+  ]
+}
